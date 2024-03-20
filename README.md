@@ -54,6 +54,6 @@
 
 ###
 
-<p align="center">You can reach me out on <a href="mailto:ralemac@proton.me">ralemac@proton.me</a> or you can send me a DM on Discord: @grafteed<br>I'm always open to talk about any ideas or projects :D</p>
+<p align="center">You can reach me out on <a href="mailto:ralemac@nookure.com">ralemac@nookure.com</a> or you can send me a DM on Discord: @grafteed<br>I'm always open to talk about any ideas or projects :D</p>
 
 ###
