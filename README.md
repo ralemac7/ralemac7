@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Rafa and I'm a student, from Barcelona, Spain.</p>
+<p align="center">My name is Rafa and I'm an IT and networks student, from Barcelona, Spain.</p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="center">I have been involved in Minecraft Servers development for some years and have served on the staff team at several servers such as Minearte Network.<br><br>GitHub is my primary tool for managing my school work. While I am not a developer, I use it to maintain control over my projects. Please note that the code I work with may not be of high quality or advanced.</p>
+<p align="center">I have been involved in Minecraft server development for several years and am the owner of Nookure Network.</p>
+<p align="center">GitHub is my primary tool for managing my school work and server-related projects. While I am not a professional developer, I use it to organize and maintain control over my work. Please note that the code I work with may not be of high quality or advanced.</p>
 
 ###
 
@@ -54,6 +55,6 @@
 
 ###
 
-<p align="center">You can reach me out on <a href="mailto:ralemac@nookure.com">ralemac@nookure.com</a> or you can send me a DM on Discord: @ralemac7<br>I'm always open to talk about any ideas or projects :D</p>
+<p align="center">You can reach me out on <a href="mailto:contacto@ralemac.dev">contacto@ralemac.dev</a> or you can send me a friend request on Discord: @ralemac7<br>I'm always open to talk about any ideas or projects :D</p>
 
 ###
