@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Rafa and I'm an IT and networks student, from Barcelona, Spain.</p>
+<p align="center">My name is Rafa and I'm an IT and networks student from Barcelona, Spain.</p>
 
 ###
 
