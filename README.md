@@ -55,6 +55,6 @@
 
 ###
 
-<p align="center">You can reach me out on <a href="mailto:contacto@ralemac.dev">contacto@ralemac.dev</a> or you can send me a friend request on Discord: @ralemac7<br>I'm always open to talk about any ideas or projects :D</p>
+<p align="center">You can reach me out on <a href="mailto:contact@rafalm.dev">contacto@ralemac.dev</a> or you can send me a friend request on Discord: @ralemac7<br>I'm always open to talk about any ideas or projects :D</p>
 
 ###
