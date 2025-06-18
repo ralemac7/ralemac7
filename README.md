@@ -45,8 +45,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ralemac7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ralemac7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=ralemac7&color=blueviolet"/></div>
 
 ###
@@ -55,6 +53,6 @@
 
 ###
 
-<p align="center">You can reach me out on <a href="mailto:contact@rafalm.dev">contacto@ralemac.dev</a> or you can send me a friend request on Discord: @ralemac7<br>I'm always open to talk about any ideas or projects :D</p>
+<p align="center">You can reach me out on <a href="mailto:contact@rafalm.dev">contact@rafalm.dev</a> or you can send me a friend request on Discord: @ralemac7<br>I'm always open to talk about any ideas or projects :D</p>
 
 ###
